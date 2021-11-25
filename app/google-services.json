@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "737641355313",
+    "project_id": "scantext-rj",
+    "storage_bucket": "scantext-rj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737641355313:android:1718d3520e28a98dc11d10",
+        "android_client_info": {
+          "package_name": "com.rj.scantext"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737641355313-usliujadu3t2d65pvscjs4kk77bt44m4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwltowM5UJMSfvvYNUPuHGrhDhrv9Tyio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737641355313-usliujadu3t2d65pvscjs4kk77bt44m4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
